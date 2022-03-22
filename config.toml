@@ -1,8 +1,6 @@
-# DO NOT REMOVE THIS
 theme = "hugo-theme-codex" 
 
-# Override these settings with your own
-title = "codex"
+title = "meinego"
 languageCode = "ko"
 baseURL = "https://meinego.github.io/"
 copyright = "© {year}"
@@ -18,6 +16,7 @@ copyright = "© {year}"
   # Follow the Hugo date/time format reference here: 
   # https://gohugo.io/functions/format/#gos-layout-string
   dateFormat = "Jan 2 2006"
+  timeZone = "Asia/Seoul"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   # twitter = "https://twitter.com/<your handle>"
@@ -67,5 +66,9 @@ copyright = "© {year}"
   title = "Blog"
   url = "/blog"
 
-
+[[menu.main]]
+  identifier = "acm"
+  name = "백준"
+  title = "백준"
+  url = "/acm"
 
