@@ -17,15 +17,6 @@ draft: false
 
 ## 코드
 ```c++
-#include <bits/stdc++.h>
-using namespace std;
-#define N 
-int n;
-
-int main() {
-
-    return 0;
-}
 ```
 
 ## 링크
