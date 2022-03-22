@@ -3,8 +3,8 @@ theme = "hugo-theme-codex"
 
 # Override these settings with your own
 title = "codex"
-languageCode = "en-us"
-baseURL = "https://example.org/"
+languageCode = "ko"
+baseURL = "https://meinego.github.io/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
@@ -20,8 +20,8 @@ copyright = "© {year}"
   dateFormat = "Jan 2 2006"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
-  twitter = "https://twitter.com/<your handle>"
-  github = "https://github.com/<your handle>"
+  # twitter = "https://twitter.com/<your handle>"
+  github = "https://github.com/meinego"
   # email = "mailto:<your email>"
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/<your handle>"
@@ -33,7 +33,7 @@ copyright = "© {year}"
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Twitter", "GitHub"]
+  iconOrder = ["GitHub"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
