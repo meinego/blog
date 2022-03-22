@@ -1,10 +1,10 @@
 ---
 title: "Hugo로 블로그 만들기"
 date: 2022-03-22T15:34:31+09:00
-slug: "slug"
-description: "desc"
+slug: ""
+description: ""
 keywords: []
-draft: true
+draft: false
 tags: ["hugo"]
 math: false
 toc: true
