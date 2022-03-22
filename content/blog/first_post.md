@@ -10,7 +10,7 @@ math: false
 toc: true
 ---
 
-![GodotImage](https://i.imgur.com/gfQSYcN.jpeg)
+![GodotImage](blob:https://imgur.com/7591a579-861b-4de5-aaf5-7c01d51aa0af)
 ### 개요
 - 신입 공채 지원서 쓰는데 github 이나 dev blog를 요구하더라  
 - go언어 공부할 겸 hugo로 만들어보자  
