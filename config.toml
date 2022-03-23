@@ -72,3 +72,9 @@ copyright = "© {year}"
   title = "백준"
   url = "/acm"
 
+[[menu.main]]
+  identifier = "cf"
+  name = "코드포스"
+  title = "코드포스"
+  url = "/cf"
+
