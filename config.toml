@@ -78,3 +78,8 @@ copyright = "© {year}"
   title = "코드포스"
   url = "/cf"
 
+[[menu.main]]
+  identifier = "spring"
+  name = "스프링"
+  title = "스프링"
+  url = "/spring"
