@@ -2,7 +2,7 @@
 title: "{{ .Name }}. "
 date: {{ .Date }}
 slug: ""
-math: false
+math: true
 toc: true
 keywords: [백준, {{ .Name }}]
 description: "백준"
@@ -16,7 +16,10 @@ draft: false
 ## 풀이
 
 ## 코드
-```c++
+```kotlin
+//kotlin
+
+
 ```
 
 ## 링크
